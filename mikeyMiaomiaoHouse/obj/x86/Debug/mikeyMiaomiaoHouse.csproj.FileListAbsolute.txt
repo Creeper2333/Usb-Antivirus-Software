@@ -1,0 +1,7 @@
+C:\Users\22551\documents\visual studio 2010\Projects\mikeyMiaomiaoHouse\mikeyMiaomiaoHouse\bin\Debug\mikeyMiaomiaoHouse.exe
+C:\Users\22551\documents\visual studio 2010\Projects\mikeyMiaomiaoHouse\mikeyMiaomiaoHouse\bin\Debug\mikeyMiaomiaoHouse.pdb
+C:\Users\22551\documents\visual studio 2010\Projects\mikeyMiaomiaoHouse\mikeyMiaomiaoHouse\obj\x86\Debug\mikeyMiaomiaoHouse.Form1.resources
+C:\Users\22551\documents\visual studio 2010\Projects\mikeyMiaomiaoHouse\mikeyMiaomiaoHouse\obj\x86\Debug\mikeyMiaomiaoHouse.Properties.Resources.resources
+C:\Users\22551\documents\visual studio 2010\Projects\mikeyMiaomiaoHouse\mikeyMiaomiaoHouse\obj\x86\Debug\mikeyMiaomiaoHouse.csproj.GenerateResource.Cache
+C:\Users\22551\documents\visual studio 2010\Projects\mikeyMiaomiaoHouse\mikeyMiaomiaoHouse\obj\x86\Debug\mikeyMiaomiaoHouse.exe
+C:\Users\22551\documents\visual studio 2010\Projects\mikeyMiaomiaoHouse\mikeyMiaomiaoHouse\obj\x86\Debug\mikeyMiaomiaoHouse.pdb
